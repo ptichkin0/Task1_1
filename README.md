@@ -1,6 +1,6 @@
 # Задание №1
 
-Веб-приложение на Python с уязвимостями XSS, IDOR, SQLI, OS command injection, Path Traversal, Brute force
+Веб-приложение на Python с уязвимостями XSS, IDOR, SQL Injection, OS command injection, Path Traversal, Brute force
 
 ## Установка
 
