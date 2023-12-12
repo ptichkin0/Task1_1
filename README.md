@@ -1,4 +1,5 @@
-# Задание №1
+# Задание №1 v1
+[v2](https://github.com/ptichkin0/Task1_2)
 
 Веб-приложение на Python с уязвимостями XSS, IDOR, SQL Injection, OS command injection, Path Traversal, Brute force
 
@@ -46,6 +47,7 @@ http://127.0.0.1:5000/ping?hostname=localhost | dir
 Path Traversal:
 ```
 http://127.0.0.1:5000/file?filename=./secret.txt
+http://127.0.0.1:5000/file?filename=./requirements.txt
 ```
 Brute Force Attack:
 ```
